@@ -38,8 +38,10 @@ plt.style.use('keystone')
 
 plot()
 ```
+# Default Plot Style
+![](/images/DefaultPlot.png)
 
-![](/images/DefaultPlot.jpg)
-![](/images/KeystonePlot.jpg)
+# Keystone Plot Style
+![](/images/KeystonePlot.png)
 
 More information here: https://matplotlib.org/users/style_sheets.html
